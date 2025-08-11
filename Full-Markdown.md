@@ -31,7 +31,6 @@ Markdown 是一種輕量級標記語言，常用於撰寫說明文件、README�
 ##### h5 Heading
 ###### h6 Heading
 ###### h6 Heading
-###### h6 Heading
 
 Alternatively, for H1 and H2, an underline-ish style:
 
